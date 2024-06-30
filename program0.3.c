@@ -19,7 +19,7 @@ int main() {
 
 void main(){
 	int x;
-	//x= printf("kalki is amazing");
+	
 	int a=0;
 	
 	for(;a;)
